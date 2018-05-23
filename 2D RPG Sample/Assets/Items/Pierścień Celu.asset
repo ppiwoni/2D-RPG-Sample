@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b5843fb9dbefd43ae697d65eab8606, type: 3}
+  m_Name: "Pier\u015Bcie\u0144 Celu"
+  m_EditorClassIdentifier: 
+  name: "Pier\u015Bcie\u0144 celu"
+  icon: {fileID: 21300000, guid: 419f4416b427ac84aa7809dc56b49025, type: 3}
+  equipmentSlot: 7
+  weaponType: 0
+  HP: 0
+  SP: 0
+  MIN_ATT: 0
+  MAX_ATT: 0
+  CRI_RATE: 0
+  DEF: 0
+  ATT_SPD: 0
+  MOV_SPD: 0
+  STR: 0
+  ACC: 1
+  SPR: 0
+  CON: 0
+  AGI: 0

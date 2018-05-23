@@ -1,0 +1,1594 @@
+fileFormatVersion: 2
+guid: 4f927b7ac33e5b240bb91dab7febe052
+timeCreated: 1517076653
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 73nunEG_0
+    21300002: 73nunEG_1
+    21300004: 73nunEG_2
+    21300006: 73nunEG_3
+    21300008: 73nunEG_4
+    21300010: 73nunEG_5
+    21300012: 73nunEG_6
+    21300014: 73nunEG_7
+    21300016: 73nunEG_8
+    21300018: 73nunEG_9
+    21300020: 73nunEG_10
+    21300022: 73nunEG_11
+    21300024: 73nunEG_12
+    21300026: 73nunEG_13
+    21300028: 73nunEG_14
+    21300030: 73nunEG_15
+    21300032: 73nunEG_16
+    21300034: 73nunEG_17
+    21300036: 73nunEG_18
+    21300038: 73nunEG_19
+    21300040: 73nunEG_20
+    21300042: 73nunEG_21
+    21300044: 73nunEG_22
+    21300046: 73nunEG_23
+    21300048: 73nunEG_24
+    21300050: 73nunEG_25
+    21300052: 73nunEG_26
+    21300054: 73nunEG_27
+    21300056: 73nunEG_28
+    21300058: 73nunEG_29
+    21300060: 73nunEG_30
+    21300062: 73nunEG_31
+    21300064: 73nunEG_32
+    21300066: 73nunEG_33
+    21300068: 73nunEG_34
+    21300070: 73nunEG_35
+    21300072: 73nunEG_36
+    21300074: 73nunEG_37
+    21300076: 73nunEG_38
+    21300078: 73nunEG_39
+    21300080: 73nunEG_40
+    21300082: 73nunEG_41
+    21300084: 73nunEG_42
+    21300086: 73nunEG_43
+    21300088: 73nunEG_44
+    21300090: 73nunEG_45
+    21300092: 73nunEG_46
+    21300094: 73nunEG_47
+    21300096: 73nunEG_48
+    21300098: 73nunEG_49
+    21300100: 73nunEG_50
+    21300102: 73nunEG_51
+    21300104: 73nunEG_52
+    21300106: 73nunEG_53
+    21300108: 73nunEG_54
+    21300110: 73nunEG_55
+    21300112: 73nunEG_56
+    21300114: 73nunEG_57
+    21300116: 73nunEG_58
+    21300118: 73nunEG_59
+    21300120: 73nunEG_60
+    21300122: 73nunEG_61
+    21300124: 73nunEG_62
+    21300126: 73nunEG_63
+    21300128: 73nunEG_64
+    21300130: 73nunEG_65
+    21300132: 73nunEG_66
+    21300134: 73nunEG_67
+    21300136: 73nunEG_68
+    21300138: 73nunEG_69
+    21300140: 73nunEG_70
+    21300142: 73nunEG_71
+    21300144: 73nunEG_72
+    21300146: 73nunEG_73
+    21300148: 73nunEG_74
+    21300150: 73nunEG_75
+    21300152: 73nunEG_76
+    21300154: 73nunEG_77
+    21300156: 73nunEG_78
+    21300158: 73nunEG_79
+    21300160: 73nunEG_80
+    21300162: 73nunEG_81
+    21300164: 73nunEG_82
+    21300166: 73nunEG_83
+    21300168: 73nunEG_84
+    21300170: 73nunEG_85
+    21300172: 73nunEG_86
+    21300174: 73nunEG_87
+    21300176: 73nunEG_88
+    21300178: 73nunEG_89
+    21300180: 73nunEG_90
+    21300182: 73nunEG_91
+    21300184: 73nunEG_92
+    21300186: 73nunEG_93
+    21300188: 73nunEG_94
+    21300190: 73nunEG_95
+    21300192: 73nunEG_96
+    21300194: 73nunEG_97
+    21300196: 73nunEG_98
+    21300198: 73nunEG_99
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 73nunEG_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 749
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 720
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 757
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 725
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 726
+        width: 91
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 672
+        width: 136
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 750
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 726
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 740
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 721
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 727
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 674
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 622
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 622
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 675
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 682
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 676
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 673
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_20
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 673
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 626
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 620
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 576
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 576
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 576
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 580
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 617
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 610
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 595
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 578
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 580
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 617
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 610
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 577
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 585
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 596
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 585
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 578
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 586
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 485
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 510
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 485
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 484
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 484
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_47
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 509
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_49
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 515
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_50
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 532
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 524
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_52
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 447
+        width: 185
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_53
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 533
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_54
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 537
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_55
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 533
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_56
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 532
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 334
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 338
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_60
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 456
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_61
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 447
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 345
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 241
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 242
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_65
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 242
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 267
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_70
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 244
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 251
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_73
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 146
+        width: 120
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 148
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_75
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 147
+        width: 141
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_76
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_77
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 110
+        width: 45
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_78
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 111
+        width: 45
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_79
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 111
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_80
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 148
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_81
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 148
+        width: 36
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 143
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_83
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 96
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 55
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 59
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_87
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 63
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_88
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_89
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 104
+        width: 91
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_90
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_91
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_92
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 52
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_93
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 143
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_94
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_95
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 56
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_96
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 49
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_97
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 73nunEG_99
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

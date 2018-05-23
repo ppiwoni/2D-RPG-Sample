@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemys
+  - Grid
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 898930885
+    locked: 0
+  - name: Interactable
+    uniqueID: 807112667
+    locked: 0
+  - name: BuildingUnderCharacter
+    uniqueID: 3766513131
+    locked: 0
+  - name: Enemy
+    uniqueID: 3556757365
+    locked: 0
+  - name: Player
+    uniqueID: 1936854083
+    locked: 0
+  - name: BuildingAboveCharacter
+    uniqueID: 1548244485
+    locked: 0
+  - name: Spell
+    uniqueID: 3530457833
+    locked: 0
+  - name: UI
+    uniqueID: 1314206899
+    locked: 0
