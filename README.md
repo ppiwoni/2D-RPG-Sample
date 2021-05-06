@@ -1,2 +1,2 @@
 # 2D-RPG-Sample
-made in unity
+Projekt gry RPG wykonany na silniku Unity
